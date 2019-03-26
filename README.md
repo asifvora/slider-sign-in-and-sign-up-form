@@ -3,9 +3,9 @@ Slider Sign in/up Form
 
 # Screenshots
 
- <img src="./screenshots/1.png" height="400" alt="screenshot1"/> 
+ <img src="./screenshots/1.png" height="400"  width="100%" alt="screenshot1"/> 
 
-<img src="./screenshots/2.png" height="400" width="500" alt="screenshot2"/> 
+<img src="./screenshots/2.png" height="400" width="100%" alt="screenshot2"/> 
 
 ## References 
  - https://codepen.io/FlorinPop17/pen/vPKWjd
